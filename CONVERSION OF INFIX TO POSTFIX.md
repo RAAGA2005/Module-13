@@ -30,8 +30,7 @@ To write a Python program to convert a given Infix expression to Postfix express
 ### PROGRAM
 
 ```python
-# REGNO:-212222060253
-# Name: SRIJAYAN T
+
 Operators = set(['&', '-', '/','(',')']) # collection of Operators
 
 Priority = {'&':1,'-':2,'/':3} 
