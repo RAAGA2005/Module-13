@@ -36,7 +36,7 @@ Operators = set(['&', '-', '/','(',')']) # collection of Operators
 Priority = {'&':1,'-':2,'/':3} 
 
  
- 
+
 def infixToPostfix(expression): 
 
     stack = [] 
